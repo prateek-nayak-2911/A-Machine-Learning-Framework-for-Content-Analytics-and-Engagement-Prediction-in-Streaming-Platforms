@@ -184,6 +184,7 @@ The models are evaluated using regression metrics such as:
 * **Matplotlib**
 * **Seaborn**
 * **Google Colab**
+* **Replit for Content Predicting App Developement**
 
 ---
 
