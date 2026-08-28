@@ -328,7 +328,7 @@ Guru Gobind Singh Indraprastha University, New Delhi
 
 ## 👨‍💻 Co - Authors
 
-**Himanshu Pandey, Krishna Pandey, Kartik Kumar and Rohan Kaushik **
+**Himanshu Pandey, Krishna Pandey, Kartik Kumar and Rohan Kaushik**
 
 B.Tech in Computer Science and Engineering (Data Science)
 
